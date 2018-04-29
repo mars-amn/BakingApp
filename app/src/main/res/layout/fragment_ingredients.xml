@@ -17,6 +17,7 @@
         android:id="@+id/ingredientsRecyclerView"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
+        android:layoutAnimation="@anim/slide_from_right_layout_animation"
         android:orientation="horizontal"
         app:layoutManager="android.support.v7.widget.LinearLayoutManager" />
 
@@ -29,6 +30,7 @@
         android:id="@+id/stepsRecyclerView"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
+        android:layoutAnimation="@anim/slide_from_bottom_layout_animation"
         android:nestedScrollingEnabled="false"
         android:orientation="vertical"
         app:layoutManager="android.support.v7.widget.LinearLayoutManager" />
