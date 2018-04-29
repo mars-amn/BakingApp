@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Baking App</string>
+    <!--labels-->
+    <string name="cake_name_label">إسم الكعكة</string>
+    <string name="quantity_label">الكمية</string>
+    <string name="ingredient_label">المكونات</string>
+    <string name="description_label">وصف الخطوة</string>
+    <string name="steps_label">الخطوات</string>
+    <string name="short_description_label">وصف الخطوة القصير</string>
+
+    <string name="empty_state_label">تطبيقك المصغر خالي من المكونات المُفضلة</string>
+    <string name="share_fab_label">شارك المكونات</string>
+    <string name="add_to_widget_fab_label">أضف المكونات للتطبيق المصغر</string>
+    <string name="successfully_inserted">تمت الإضافة بنجاح</string>
+    <string name="share_chooser_label">شارك مكونات الكعكة مع أصدقائك</string>
+    <string name="connectivity_state_label">لا يوجد إتصال بالإنترنت</string>
+    <string name="options_fab_label">الخيارات</string>
+
+    <!--Accessibility Strings -->
+    <string name="connection_state_lost_content_description">لا يوجد إتصال بالإنترنت</string>
+    <string name="cake_image_content_description">صورة الكعكة</string>
+    <string name="play_video_content_description">شغّل الفيديو</string>
+    <string name="pause_video_content_description">إيقاف مؤقت للفيديو</string>
+    <string name="thumbnail_image_content_description">صورة الكعكة</string>
+    <string name="measuring_unit_content_description">وحدة القياس</string>
+    <string name="short_description_content_description">الشرح المُصغر</string>
+    <string name="step_description_content_description">شرح الخطوة</string>
+
+    <string name="not_available_message">غير مُتاح</string>
+    <string name="error_upon_launch_message">حدث خطأ ما.</string>
+</resources>

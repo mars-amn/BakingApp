@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- text views -->
+
+    <dimen name="cakes_list_text_view_size">20sp</dimen>
+    <dimen name="cakes_list_text_padding">2dp</dimen>
+    <dimen name="ingredient_max_text_size">18sp</dimen>
+    <dimen name="ingredient_min_text_size">16sp</dimen>
+    <dimen name="ingredients_quantity_text_size">24sp</dimen>
+    <dimen name="recipe_step_instructions_text_size">16sp</dimen>
+    <dimen name="cakes_list_margin_bottom_text">4dp</dimen>
+    <dimen name="recipe_text_padding">12dp</dimen>
+
+    <!-- used for the view divider-->
+    <dimen name="divider_height">4dp</dimen>
+    <dimen name="divider_width">90dp</dimen>
+    <dimen name="divider_margin">4dp</dimen>
+
+    <!--
+Refer to App Widget Documentation for margin information
+http://developer.android.com/guide/topics/appwidgets/index.html#CreatingLayout
+    -->
+    <dimen name="widget_margin">0dp</dimen>
+
+
+</resources>

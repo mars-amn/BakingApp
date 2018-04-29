@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Baking App</string>
+    <!--labels-->
+    <string name="cake_name_label">Cake Name</string>
+    <string name="error_upon_launch_message">Error occurred</string>
+    <string name="quantity_label">Quantity</string>
+    <string name="ingredient_label">Ingredients</string>
+    <string name="description_label">Long Description</string>
+    <string name="steps_label">Steps</string>
+    <string name="short_description_label">Short Description</string>
+    <string name="recipe_instructions_label">Here lies the recipe step instructions</string>
+    <string name="empty_state_label">Your Ingredients home screen Widget Is Empty</string>
+    <string name="share_fab_label">Share</string>
+    <string name="add_to_widget_fab_label">Add Ingredients Widget</string>
+    <string name="successfully_inserted">Inserted Successfully</string>
+    <string name="share_chooser_label">Share Cake Ingredients</string>
+    <string name="connectivity_state_label">There is no Internet Connection Please make sure you have a clear Internet Connection and try again!</string>
+    <string name="options_fab_label">Options</string>
+
+    <!--Accessibility Strings -->
+    <string name="connection_state_lost_content_description">Connection Lost</string>
+    <string name="cake_image_content_description">Cake Image</string>
+    <string name="play_video_content_description">Play Video</string>
+    <string name="pause_video_content_description">Pause Video</string>
+    <string name="thumbnail_image_content_description">Cake Thumbnail Image</string>
+    <string name="measuring_unit_content_description">Measuring Unit</string>
+    <string name="short_description_content_description">Short Description</string>
+    <string name="step_description_content_description">Step Description</string>
+
+    <string name="not_available_message">Not Available!</string>
+</resources>

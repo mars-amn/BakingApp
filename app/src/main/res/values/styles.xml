@@ -1,0 +1,59 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:fontFamily">@font/montserrat</item>
+    </style>
+
+    <style name="SplashTheme" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowBackground">@drawable/splash_background</item>
+    </style>
+
+    <style name="cakeListTextStyle" parent="TextAppearance.AppCompat">
+        <item name="android:layout_gravity">center</item>
+        <item name="android:fontFamily">@font/montserrat</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:padding">@dimen/cakes_list_text_padding</item>
+        <item name="android:textSize">@dimen/cakes_list_text_view_size</item>
+        <item name="android:layout_marginBottom">@dimen/cakes_list_margin_bottom_text</item>
+    </style>
+
+    <style name="cakeListDividerStyle">
+        <item name="android:layout_gravity">center</item>
+        <item name="android:background">@color/secondaryColor</item>
+        <item name="android:layout_height">@dimen/divider_height</item>
+        <item name="android:layout_width">@dimen/divider_width</item>
+        <item name="android:layout_margin">@dimen/divider_margin</item>
+    </style>
+
+    <style name="ingredientListTextStyle" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/cakes_list_text_view_size</item>
+        <item name="android:layout_height">70dp</item>
+        <item name="android:layout_width">200dp</item>
+        <item name="android:layout_gravity">start</item>
+        <item name="android:textColor">@color/primaryText</item>
+        <item name="android:fontFamily">@font/montserrat</item>
+    </style>
+
+    <style name="ingredientQuantityListTextStyle" parent="TextAppearance.AppCompat">
+        <item name="android:fontFamily">@font/nunito_sans_light_italic</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+
+        <item name="android:textSize">@dimen/ingredients_quantity_text_size</item>
+    </style>
+
+    <style name="recipeStepInstructionTextStyle" parent="TextAppearance.AppCompat">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:fontFamily">@font/montserrat</item>
+        <item name="android:textSize">@dimen/recipe_step_instructions_text_size</item>
+        <item name="android:padding">@dimen/recipe_text_padding</item>
+        <item name="android:layout_weight">1</item>
+    </style>
+</resources>
