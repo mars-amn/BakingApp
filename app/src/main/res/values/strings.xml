@@ -11,7 +11,7 @@
     <string name="recipe_instructions_label">Here lies the recipe step instructions</string>
     <string name="empty_state_label">Your Ingredients home screen Widget Is Empty</string>
     <string name="share_fab_label">Share</string>
-    <string name="add_to_widget_fab_label">Add Ingredients Widget</string>
+    <string name="add_to_widget_fab_label">Add Ingredients to Widget</string>
     <string name="successfully_inserted">Inserted Successfully</string>
     <string name="share_chooser_label">Share Cake Ingredients</string>
     <string name="connectivity_state_label">There is no Internet Connection Please make sure you have a clear Internet Connection and try again!</string>
