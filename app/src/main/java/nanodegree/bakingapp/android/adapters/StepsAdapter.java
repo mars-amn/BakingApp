@@ -76,7 +76,6 @@ public class StepsAdapter extends RecyclerView.Adapter<StepsAdapter.StepsViewHol
         holder.shortDescriptionTextView.setText(shortDescription);
         holder.descriptionTextView.setText(description);
 
-
     }
 
     @Override
